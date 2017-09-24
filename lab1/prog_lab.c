@@ -1,0 +1,1 @@
+/* Implementation of the fact function goes here. */
